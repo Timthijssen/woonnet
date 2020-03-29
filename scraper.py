@@ -58,10 +58,8 @@ for page in range(1, nr_of_pages+1):
         house_dict[url] = [street, zipcode, price, sq, rooms, gestoffeerd, available]
 
 
-<<<<<<< HEAD
 df = pd.Dataframe(data = house_dict)
 print(df)
-=======
 print(house_dict)
 
 
@@ -77,4 +75,3 @@ options = {house[0]: house[1] for house in house_dict.items()
 
 
 print(options)
->>>>>>> 32462b2d8730e46d195727a71ec6dab918735e99
