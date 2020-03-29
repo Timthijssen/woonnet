@@ -16,19 +16,16 @@ for house in houses_per_page:
 
     url = (str(location[1]).split('"')[1])
     street = (str(location[1]).split('"')[2])[1:-9]
-    zipcode = str(location[3]).split()[2:4]
-
+    zipcode = str(location[3]).split()[2] + ' ' + str(location[3]).split()[3]
     char = house.find(
             class_='description pb-0 mb-0').contents
-    sq = str(char[2])[1:3]
-    rooms = char[4]
-    gestoffeerd = char[6]
-    available = char[8]
-    zipcode = house.find_all(class_='fs-14')
-
+    sq = str(char[2]).strip()
+    
+    rooms = str(char[4]).split()[0]
+    gestoffeerd = str(char[6].strip())
+    available = str(char[8]).strip().split()[-1]
 
     #print(url, street, zipcode, sq, rooms, gestoffeerd, available, zipcode)
-    house_dict[url] = [street, zipcode, sq, rooms, gestoffeerd, available, zipcode]
+    house_dict[url] = [street, zipcode, sq, rooms, gestoffeerd, available]
 
-    #print(house_dict)
-    break
+print(house_dict)
