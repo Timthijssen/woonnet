@@ -6,7 +6,7 @@ def options_creator(house_dict):
 
     options = {key: house_info for key, house_info in house_dict.items()
             if house_info[1][:4] in zipcode_dict 
-            and float((house_info[2][1:])) <= 1600.0
+            and float((house_info[2])) <= 1600.0
             and int(house_info[3]) >= 50
             and int(house_info[4]) >= 2}
     
