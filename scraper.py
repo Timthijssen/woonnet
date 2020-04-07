@@ -1,8 +1,8 @@
-import requests
 import json
 from bs4 import BeautifulSoup
 import pandas as pd
 from functions_for_scraper import zipcode_search, options_creator
+import requests
 
 
 def scrape():
@@ -31,6 +31,10 @@ def scrape():
 
             # Get objects of each house
             price = str(house.find_all(class_='mt-4 mt-md-3 mb-md-5')).split()[4].split('.')[0]
+            try:
+                price = float(price[1:])
+            except ValueError:
+                price = float(price[1:].split(',')[0])
             location = house.find(class_='col-8 col-md-6 pt-md-3 col-descriptionwidth-small').contents
             url = str(location[1]).split('"')[1]
             street = (str(location[1]).split('"')[2])[1:-9]
