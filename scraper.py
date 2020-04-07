@@ -76,6 +76,5 @@ if __name__ == '__main__':
 
     options = options_creator(all_houses)
     df_options = pd.DataFrame.from_dict(data = options, orient='index', columns=['street', 'zipcode', 'price', 'sq', 'rooms', 'gestoffeerd', 'available'])
-    print(df_all)
     df_all.to_csv('alle_huisjes.csv')
     df_options.to_csv('optie_huisjes.csv')
