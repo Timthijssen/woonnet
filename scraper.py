@@ -3,9 +3,10 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from functions_for_scraper import zipcode_search, options_creator
 import requests
+from datetime import datetime
 
 
-def scrape():
+def scrape(old_houses_url):
 
     url = "https://www.woonnet.nl/huurwoning/amsterdam"
 
@@ -37,37 +38,41 @@ def scrape():
                 price = float(price[1:].split(',')[0])
             location = house.find(class_='col-8 col-md-6 pt-md-3 col-descriptionwidth-small').contents
             url = str(location[1]).split('"')[1]
-            street = (str(location[1]).split('"')[2])[1:-9]
-            zipcode = str(location[3]).split()[2] + ' ' + str(location[3]).split()[3]
             
-            if zipcode.startswith('Amsterdam'):
-                zipcode = zipcode_search(street)
+            if url not in old_houses_url:
+                
+                street = (str(location[1]).split('"')[2])[1:-9]
+                zipcode = str(location[3]).split()[2] + ' ' + str(location[3]).split()[3]
+                
+                if zipcode.startswith('Amsterdam'):
+                    zipcode = zipcode_search(street)
 
-            char = house.find(
-                    class_='description pb-0 mb-0').contents
-            
-            try:
-                sq = int(str(char[2]).strip().split()[0])
-            except:
-                sq = 999
+                char = house.find(
+                        class_='description pb-0 mb-0').contents
+                
+                try:
+                    sq = int(str(char[2]).strip().split()[0])
+                except:
+                    sq = 999
 
-            try:
-                rooms = int(str(char[4]).split()[0])
-            except:
-                rooms = 99
+                try:
+                    rooms = int(str(char[4]).split()[0])
+                except:
+                    rooms = 99
 
-            try: 
-                gestoffeerd = str(char[6].strip())
-            except:
-                gestoffeerd = 'onbekend'
+                try: 
+                    gestoffeerd = str(char[6].strip())
+                except:
+                    gestoffeerd = 'onbekend'
 
-            try:
-                available = str(char[8]).strip().split()[-1]
-            except:
-                available = 'onbekend'
+                try:
+                    available = str(char[8]).strip().split()[-1]
+                except:
+                    available = 'onbekend'
 
-            house_dict[url] = [street, zipcode, price, sq, rooms, gestoffeerd, available]
-    
+                
+                house_dict[url] = [street, zipcode, price, sq, rooms, gestoffeerd, available, datetime.today()]
+        
     return house_dict
 
 
@@ -75,10 +80,22 @@ if __name__ == '__main__':
     # house_dict = scrape()
     # df = pd.DataFrame.from_dict(data=house_dict, orient='index', columns = ['street', 'zipcode', 'price', 'sq', 'rooms', 'gestoffeerd', 'available'])
     # print(df['sq'][10:200])
-    all_houses = scrape()
-    df_all = pd.DataFrame.from_dict(data = all_houses, orient='index', columns=['street', 'zipcode', 'price', 'sq', 'rooms', 'gestoffeerd', 'available'])
+    
+    old_houses = pd.read_csv('alle_huisjes.csv')
+    old_houses_url = set(old_houses.iloc[:,0])
+    all_houses = scrape(old_houses_url)
+    df_all = pd.DataFrame.from_dict(data = all_houses, orient='index', columns=['street', 'zipcode', 'price', 'sq', 'rooms', 'gestoffeerd', 'available', 'date added'])
 
-    options = options_creator(all_houses)
-    df_options = pd.DataFrame.from_dict(data = options, orient='index', columns=['street', 'zipcode', 'price', 'sq', 'rooms', 'gestoffeerd', 'available'])
-    df_all.to_csv('alle_huisjes.csv')
-    df_options.to_csv('optie_huisjes.csv')
+    old_dates = ['01-04-2020' for _ in range(len(old_houses))]
+    old_houses['date added'] = old_dates
+    total_houses = old_houses.append(df_all)
+    total_houses = total_houses.set_index('Unnamed: 0')
+
+    total_houses.to_csv('huizen_alles.csv')
+    
+    # Opties creeren 
+    
+    options = options_creator(total_houses)
+    df_options = pd.DataFrame.from_dict(data = options, orient='index', columns=['street', 'zipcode', 'price', 'sq', 'rooms', 'gestoffeerd', 'available', 'date added'])
+    
+    df_options.to_csv('huizen_opties.csv')
