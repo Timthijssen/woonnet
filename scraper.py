@@ -71,31 +71,26 @@ def scrape(old_houses_url):
                     available = 'onbekend'
 
                 
-                house_dict[url] = [street, zipcode, price, sq, rooms, gestoffeerd, available, datetime.today()]
+                house_dict[url] = [street, zipcode, price, sq, rooms, gestoffeerd, available, str(datetime.today())]
         
     return house_dict
 
 
 if __name__ == '__main__':
-    # house_dict = scrape()
-    # df = pd.DataFrame.from_dict(data=house_dict, orient='index', columns = ['street', 'zipcode', 'price', 'sq', 'rooms', 'gestoffeerd', 'available'])
-    # print(df['sq'][10:200])
     
-    old_houses = pd.read_csv('alle_huisjes.csv')
-    old_houses_url = set(old_houses.iloc[:,0])
+    old_houses = pd.read_csv('alle_huisjes.csv', index_col = 0)
+    old_houses_url = set(old_houses.index.values)
+    
     all_houses = scrape(old_houses_url)
+    
     df_all = pd.DataFrame.from_dict(data = all_houses, orient='index', columns=['street', 'zipcode', 'price', 'sq', 'rooms', 'gestoffeerd', 'available', 'date added'])
-
+    print(df_all)
     old_dates = ['01-04-2020' for _ in range(len(old_houses))]
     old_houses['date added'] = old_dates
+    print(old_houses)
+    
     total_houses = old_houses.append(df_all)
-    total_houses = total_houses.set_index('Unnamed: 0')
+    print(total_houses)
 
-    total_houses.to_csv('huizen_alles.csv')
+    total_houses.to_csv('huizen_alle.csv')
     
-    # Opties creeren 
-    
-    options = options_creator(total_houses)
-    df_options = pd.DataFrame.from_dict(data = options, orient='index', columns=['street', 'zipcode', 'price', 'sq', 'rooms', 'gestoffeerd', 'available', 'date added'])
-    
-    df_options.to_csv('huizen_opties.csv')
