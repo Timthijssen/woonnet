@@ -78,19 +78,15 @@ def scrape(old_houses_url):
 
 if __name__ == '__main__':
     
-    old_houses = pd.read_csv('alle_huisjes.csv', index_col = 0)
-    old_houses_url = set(old_houses.index.values)
+    # Import csv with current houses and create set 
+    df_current_houses = pd.read_csv('huizen_alle.csv', index_col = 0)
+    current_houses_url = set(df_current_houses.index.values) 
     
-    all_houses = scrape(old_houses_url)
+    # Scrape new houses by checking with current houses and create dataframe
+    updated_houses = scrape(current_houses_url)
+    df_updated_houses = pd.DataFrame.from_dict(data = updated_houses, orient='index', columns=['street', 'zipcode', 'price', 'sq', 'rooms', 'gestoffeerd', 'available', 'date added'])
     
-    df_all = pd.DataFrame.from_dict(data = all_houses, orient='index', columns=['street', 'zipcode', 'price', 'sq', 'rooms', 'gestoffeerd', 'available', 'date added'])
-    print(df_all)
-    old_dates = ['01-04-2020' for _ in range(len(old_houses))]
-    old_houses['date added'] = old_dates
-    print(old_houses)
-    
-    total_houses = old_houses.append(df_all)
-    print(total_houses)
-
-    total_houses.to_csv('huizen_alle.csv')
+    # Add new houses to dataframe and export
+    df_total_houses = df_current_houses.append(df_updated_houses)
+    df_total_houses.to_csv('huizen_alle.csv')
     

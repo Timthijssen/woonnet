@@ -20,21 +20,23 @@ def option_selector(zipcodes, price, sq_meter, bedrooms):
 if __name__ == '__main__':    
     
     # set paramaters (Tim Tijmen - Amsterdam)
-    # zipcodes = json.loads(open('Postcode_damsco.txt', 'r').read())
-    # price = 1600.0
-    # sq_meter = 50
-    # bedrooms = 2
+    zipcodes = json.loads(open('Postcode_damsco.txt', 'r').read())
+    price = 1600.0
+    sq_meter = 50
+    bedrooms = 2
+    file_name = 'opties_Amsterdam.csv'
 
     # set paramaters (Remco - Amsterdam)
-    zipcodes = json.loads(open('Remco_postcodes.txt', 'r').read())
-    price = 3500
-    sq_meter = 90
-    bedrooms = 4
+    # zipcodes = json.loads(open('Remco_postcodes.txt', 'r').read())
+    # price = 3500
+    # sq_meter = 90
+    # bedrooms = 4
+    # file_name = 'opties_Remco_Amsterda.csv'
     
     # Creates options dateframe
     options = option_selector(zipcodes, price, sq_meter, bedrooms)
     df_options = pd.DataFrame.from_dict(data = options, orient='index', columns=['street', 'zipcode', 'price', 'sq', 'rooms', 'gestoffeerd', 'available', 'date added'])
     
     # Add new houses to dataframe and export
-    df_options.to_csv('opties_Remco_Amsterdam.csv')
+    df_options.to_csv(file_name)
 
