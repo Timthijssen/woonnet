@@ -1,138 +1,41 @@
 ,street,zipcode,price,sq,rooms,gestoffeerd,available,date added
-https://www.woonnet.nl/huurwoning/amsterdam/1462_van-woustraat,Van Woustraat ,1073 LM,750.0,55,2,Gestoffeerd,01-05-2020,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/4499_blokmakerstraat,Blokmakerstraat ,1013 DG,600.0,82,3,Gestoffeerd,01-05-2020,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/7005_rustenburgerstraat,Rustenburgerstraat ,1072 GZ,500.0,60,4,Gestoffeerd,01-05-2020,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/9467459_derde-wittenburgerdwarsstraat,Derde Wittenburgerdwarsstraat ,1018 KR,1575.0,60,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/7371_jan-van-galenstraat,Jan van Galenstraat ,1056 BJ,567.0,65,3,Gestoffeerd,01-05-2020,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/2798_nickeriestraat,Nickeriestraat ,1058 VT,725.0,75,2,Gestoffeerd,01-05-2020,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/8663_admiralengracht,Admiralengracht ,1057 GB,1025.0,60,2,Gestoffeerd,01-05-2020,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/6149062_bloemstraat,Bloemstraat ,1016 KV,1600.0,52,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/8591_appartement-admiraal,Admiraal De Ruijterweg ,1057 JT,733.0,73,3,Gestoffeerd,15-04-2020,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/8711_admiraal-de-ruijterweg,Admiraal De Ruijterweg ,1057 JW,1300.0,77,2,Gestoffeerd,01-05-2020,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/9322384_pieter-cornelisz-hooftstraat,Pieter Cornelisz. Hooftstraat ,1071 CH,1500.0,75,99,onbekend,onbekend,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/9217718_bilderdijkstraat,Bilderdijkstraat ,1052 NA,1500.0,60,2,Beschikbaar per: 2020-05-01,gratis!</span>,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/6691_roerstraat,Roerstraat ,1078 LR,750.0,90,3,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/3549_eerste-van-swindenstraat,Eerste Van Swindenstraat ,1093 GB,1405.0,68,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/6523_staalmeesterslaan,Staalmeesterslaan ,1057 PG,1170.0,85,3,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/1532_staalmeesterslaan,Staalmeesterslaan ,1057 NG,1375.0,95,3,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/8997636_haarlemmermeerstraat,Haarlemmermeerstraat ,1058 JP,1599.0,62,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/8155_weesperstraat,Weesperstraat ,1018 DN,737.0,72,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/8941_haarlemmer-houttuinen,Haarlemmer Houttuinen ,1013 GM,1550.0,93,3,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/3238_woestduinstraat,Woestduinstraat ,1058 TG,1525.0,60,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/1467_mauvestraat,Mauvestraat ,1073 RH,1450.0,60,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/8630466_bloys-van-treslongstraat,Bloys Van Treslongstraat ,1056 XA,1600.0,51,2,Per direct beschikbaar,gratis!</span>,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/2115_commelinstraat,Commelinstraat ,1093 TG,775.0,78,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/6443_bilderdijkkade,Bilderdijkkade ,1053 VB,1500.0,80,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/2550_sumatrastraat,Sumatrastraat ,1094 NG,1350.0,50,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/7931700_marco-polostraat,Marco Polostraat ,1057 WL,1525.0,60,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/7803138_orteliusstraat,Orteliusstraat 17 - S,1057 AR,1000.0,999,99,onbekend,onbekend,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/6649946_vrolikstraat,Vrolikstraat ,1091 VG,1600.0,60,2,Gemeubileerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/7199335_wagenaarstraat,Wagenaarstraat ,1093 CN,1600.0,65,2,Gemeubileerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/5502_uiterwaardenstraat,Uiterwaardenstraat ,1059 BS,725.0,55,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/3665_john-blankensteinstraat,John Blankensteinstraat ,1095 MB,1134.0,73,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/6947900_balistraat,Balistraat ,1094,1500.0,51,2,Gemeubileerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/4122_utrechtsestraat,Utrechtsestraat ,1017 VS,750.0,75,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/3733_vespuccistraat,Vespuccistraat ,1056 SV,700.0,92,4,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/8135_van-bossestraat,Van Bossestraat ,1051 KB,763.0,50,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/3132_kinkerstraat,Kinkerstraat ,1053 GJ,725.0,52,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/2155_jacob-van-lennepkade,Jacob van Lennepkade ,1054 ZW,725.0,65,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/6497379_pieter-cornelisz-hooftstraat,Pieter Cornelisz. Hooftstraat ,1071 BL,595.0,999,99,onbekend,onbekend,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/6498451_kerkstraat,Kerkstraat ,1017 GA,325.0,999,99,onbekend,onbekend,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/9187_paramaribostraat,Paramaribostraat ,1058 AN,617.0,85,3,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/5753_sassenheimstraat,Sassenheimstraat ,1059 BL,675.0,55,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/5788259_orteliuskade,Orteliuskade ,1057 AP,1500.0,56,2,Gestoffeerd,2021-06-12,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/1985_s-gravesandeplein,'s-Gravesandeplein ,1091 BB,1350.0,60,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/4179055_grensstraat,Grensstraat ,1091 SZ,1110.0,52,99,onbekend,onbekend,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/3228_leimuidenstraat,Leimuidenstraat ,1059 EK,1500.0,55,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/8096_haarlemmermeerstraat,Haarlemmermeerstraat ,1058 JX,750.0,60,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/3085_warmondstraat,Warmondstraat ,1058 KZ,1399.0,85,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/2054874_spaarndammerdijk,Spaarndammerdijk ,1013 ZM,1500.0,65,2,Gemeubileerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/1732786_curacaostraat,Curacaostraat ,1058 BJ,1500.0,58,2,Gemeubileerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/1412787_joubertstraat,Joubertstraat ,1091 XM,1600.0,63,2,Gemeubileerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/1403375_plantage-muidergracht,Plantage Muidergracht ,1018 TK,1400.0,60,2,Gemeubileerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/1283491_eerste-jan-steenstraat,Eerste Jan Steenstraat ,1072 NH,1500.0,63,2,Gestoffeerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/1151068_nida-senffstraat,Nida Senffstraat ,1095,1500.0,67,2,Gemeubileerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/914737_de-wittenkade,De Wittenkade ,1051 BE,1495.0,55,99,onbekend,onbekend,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/686116_jacob-van-lennepstraat,Jacob Van Lennepstraat ,1053 HA,1550.0,70,99,Per direct beschikbaar,gratis!</span>,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/1171_westerkade,Westerkade ,1015 XA,1600.0,55,2,Gemeubileerd,beschikbaar,01-04-2020
-https://www.woonnet.nl/huurwoning/amsterdam/6069_andreasplein,Andreasplein ,1058 GD,650.0,112,3,Gestoffeerd,01-05-2020,2020-04-19 16:00:24.064471
-https://www.woonnet.nl/huurwoning/amsterdam/4993_pieter-cornelisz-hooftstraat,Pieter Cornelisz Hooftstraat ,1071 BX,697.0,50,2,Gestoffeerd,01-05-2020,2020-04-19 16:00:24.641565
-https://www.woonnet.nl/huurwoning/amsterdam/4040_kastanjeplein,Kastanjeplein ,1092 CH,825.0,58,2,Gestoffeerd,01-05-2020,2020-04-19 16:00:25.742415
-https://www.woonnet.nl/huurwoning/amsterdam/6945_van-woustraat,Van Woustraat ,1073 LM,1400.0,55,2,Gestoffeerd,01-05-2020,2020-04-19 16:00:26.180326
-https://www.woonnet.nl/huurwoning/amsterdam/2465_recht-boomssloot,Recht Boomssloot ,1011 CS,1100.0,50,2,Gestoffeerd,01-05-2020,2020-04-19 16:00:26.181542
-https://www.woonnet.nl/huurwoning/amsterdam/351_borgerstraat,Borgerstraat ,1053 PA,1.0,76,2,Gemeubileerd,beschikbaar,2020-04-19 16:00:26.182923
-https://www.woonnet.nl/huurwoning/amsterdam/4037_amstelveenseweg,Amstelveenseweg ,1075 XW,700.0,85,3,Gestoffeerd,01-05-2020,2020-04-19 16:00:26.540802
-https://www.woonnet.nl/huurwoning/amsterdam/3529_albert-cuypstraat,Albert Cuypstraat ,1073 BJ,608.0,60,3,Gestoffeerd,01-05-2020,2020-04-19 16:00:26.884526
-https://www.woonnet.nl/huurwoning/amsterdam/8541_bartholomeus-diazstraat,Bartholomeus Diazstraat ,1057 TA,1450.0,70,2,Gestoffeerd,01-05-2020,2020-04-19 16:00:27.607405
-https://www.woonnet.nl/huurwoning/amsterdam/5713_sint-jansstraat,Sint Jansstraat ,1012 HG,717.0,89,3,Gestoffeerd,01-05-2020,2020-04-19 16:00:27.959983
-https://www.woonnet.nl/huurwoning/amsterdam/5491_haarlemmermeerstraat,Haarlemmermeerstraat ,1058 JW,750.0,62,2,Gestoffeerd,15-05-2020,2020-04-26 11:18:27.202289
-https://www.woonnet.nl/huurwoning/amsterdam/9363_mercatorstraat,Mercatorstraat ,1056 RD,700.0,55,2,Gestoffeerd,01-07-2020,2020-04-26 11:18:27.904715
-https://www.woonnet.nl/huurwoning/amsterdam/8613_therese-schwartzeplein,Therese Schwartzeplein ,1073 JK,1020.0,53,2,Gestoffeerd,01-06-2020,2020-04-26 11:18:27.905914
-https://www.woonnet.nl/huurwoning/amsterdam/3937_mauvestraat,Mauvestraat ,1073 RJ,750.0,55,2,Gestoffeerd,01-05-2020,2020-04-26 11:18:34.253592
-https://www.woonnet.nl/huurwoning/amsterdam/1920_rustenburgerstraat,Rustenburgerstraat ,1072 GZ,500.0,60,4,Gestoffeerd,01-05-2020,2020-04-26 11:18:34.255832
-https://www.woonnet.nl/huurwoning/amsterdam/9501511_van-walbeeckstraat,Van Walbeeckstraat 53 III,1058 CK,1600.0,59,2,Per direct beschikbaar,gratis!</span>,2020-04-26 11:18:35.906191
-https://www.woonnet.nl/huurwoning/amsterdam/8678_graaf-florisstraat,Graaf Florisstraat ,1091 TG,1500.0,60,2,Gestoffeerd,01-05-2020,2020-04-26 11:18:36.626745
-https://www.woonnet.nl/huurwoning/amsterdam/9501082_wijdesteeg-pp,Wijdesteeg P.p ,1012 RN,550.0,999,99,onbekend,onbekend,2020-04-26 11:18:37.989579
-https://www.woonnet.nl/huurwoning/amsterdam/2065_prins-hendrikkade,Prins Hendrikkade ,1012 TL,950.0,257,2,Gestoffeerd,01-05-2020,2020-04-26 11:18:38.076593
-https://www.woonnet.nl/huurwoning/amsterdam/4010_trompenburgstraat,Trompenburgstraat ,1079 TX,567.0,92,3,Gestoffeerd,01-05-2020,2020-04-26 11:18:38.431423
-https://www.woonnet.nl/huurwoning/amsterdam/9499982_trompenburgstraat,Trompenburgstraat ,1079 TM,1529.0,85,2,Gestoffeerd,beschikbaar,2020-04-26 11:18:43.770301
-https://www.woonnet.nl/huurwoning/amsterdam/9499664_agamemnonstraat,Agamemnonstraat 43 I,1076 LR,1550.0,53,2,Per direct beschikbaar,gratis!</span>,2020-04-26 11:18:44.362130
-https://www.woonnet.nl/huurwoning/amsterdam/9850243_soendastraat,Soendastraat ,1094 BE,1500.0,55,2,Per direct beschikbaar,gratis!</span>,2020-05-14 15:36:56.707739
-https://www.woonnet.nl/huurwoning/amsterdam/6330_nassaukade,Nassaukade ,1052 CR,717.0,76,3,Gestoffeerd,01-06-2020,2020-05-14 15:37:00.829935
-https://www.woonnet.nl/huurwoning/amsterdam/9829465_geuzenstraat,Geuzenstraat 94 - hs,1056 KH,1350.0,50,2,Per direct beschikbaar,gratis!</span>,2020-05-14 15:37:02.026291
-https://www.woonnet.nl/huurwoning/amsterdam/363_cornelis-trooststraat-44-3,Cornelis Trooststraat 44-3 ,1072JG &amp;bullet,1.0,63,2,Ongemeubileerd,2020-06-01,2020-05-14 15:37:02.614751
-https://www.woonnet.nl/huurwoning/amsterdam/8121_rustenburgerstraat,Rustenburgerstraat ,1072 GZ,633.0,56,3,Gestoffeerd,01-06-2020,2020-05-14 15:37:02.883264
-https://www.woonnet.nl/huurwoning/amsterdam/9774712_kea-boumanstraat,Kea Boumanstraat 120B,1095,1250.0,50,99,onbekend,onbekend,2020-05-14 15:37:06.586612
-https://www.woonnet.nl/huurwoning/amsterdam/3269_kastanjeplein,Kastanjeplein ,1092 CH,825.0,58,2,Gestoffeerd,01-06-2020,2020-05-14 15:37:09.987455
-https://www.woonnet.nl/huurwoning/amsterdam/9757368_jj-cremerstraat,J.j. Cremerstraat 2 - III,1054 TD,1400.0,50,2,Per direct beschikbaar,gratis!</span>,2020-05-14 15:37:10.601284
-https://www.woonnet.nl/huurwoning/amsterdam/3103_geuzenstraat,Geuzenstraat ,1056 KH,1350.0,50,2,Gestoffeerd,01-06-2020,2020-05-14 15:37:12.727278
-https://www.woonnet.nl/huurwoning/amsterdam/9546_balboastraat,Balboastraat ,1057 VS,692.0,80,3,Gestoffeerd,01-06-2020,2020-05-14 15:37:13.395694
-https://www.woonnet.nl/huurwoning/amsterdam/3764_orteliusstraat,Orteliusstraat ,1056 PK,1450.0,60,2,Gestoffeerd,01-06-2020,2020-05-14 15:37:14.938897
-https://www.woonnet.nl/huurwoning/amsterdam/9718072_montelbaanstraat,Montelbaanstraat 11 II,1011 EG,1350.0,50,2,Per direct beschikbaar,gratis!</span>,2020-05-14 15:37:17.118091
-https://www.woonnet.nl/huurwoning/amsterdam/9700688_lange-leidsedwarsstraat,Lange Leidsedwarsstraat ,1017 NR,1575.0,65,2,Gestoffeerd,beschikbaar,2020-05-14 15:37:19.815416
-https://www.woonnet.nl/huurwoning/amsterdam/3620_ruyschstraat,Ruyschstraat ,1091 CB,1000.0,50,2,Gemeubileerd,15-05-2020,2020-05-14 15:37:20.121921
-https://www.woonnet.nl/huurwoning/amsterdam/9660607_oudezijds-voorburgwal,Oudezijds Voorburgwal 169 ll,1012 ET,1600.0,50,2,Per direct beschikbaar,gratis!</span>,2020-05-14 15:37:22.582501
-https://www.woonnet.nl/huurwoning/amsterdam/9645783_de-wittenkade,De Wittenkade 158 III,1051 AN,1550.0,70,2,Per direct beschikbaar,gratis!</span>,2020-05-14 15:37:24.423904
-https://www.woonnet.nl/huurwoning/amsterdam/1793_geuzenstraat,Geuzenstraat ,1056 KB,648.0,65,3,Gestoffeerd,01-06-2020,2020-05-14 15:37:25.036207
-https://www.woonnet.nl/huurwoning/amsterdam/4738_schinkelkade,Schinkelkade ,1075 VK,600.0,51,3,Gestoffeerd,01-06-2020,2020-05-14 15:37:25.680950
-https://www.woonnet.nl/huurwoning/amsterdam/9644106_agamemnonstraat,Agamemnonstraat 43 I,1076 LR,1550.0,53,2,Per direct beschikbaar,gratis!</span>,2020-05-14 15:37:25.681485
-https://www.woonnet.nl/huurwoning/amsterdam/9640853_balboastraat,Balboastraat 13 I,1057 VS,1500.0,54,2,Per direct beschikbaar,gratis!</span>,2020-05-14 15:37:27.556129
-https://www.woonnet.nl/huurwoning/amsterdam/9623673_von-zesenstraat,Von Zesenstraat ,1093 DG,1500.0,68,2,Beschikbaar per: 2020-06-01,gratis!</span>,2020-05-14 15:37:29.842274
-https://www.woonnet.nl/huurwoning/amsterdam/9609041_zaagmolenstraat,Zaagmolenstraat ,1052 HA,1525.0,52,2,Kaal,beschikbaar,2020-05-14 15:37:30.261245
-https://www.woonnet.nl/huurwoning/amsterdam/4325_ferdinand-bolstraat,Ferdinand Bolstraat ,1072 LB,750.0,71,2,Gestoffeerd,01-06-2020,2020-05-14 15:37:30.877585
-https://www.woonnet.nl/huurwoning/amsterdam/1729_retiefstraat,Retiefstraat ,1092 VW,650.0,81,3,Gestoffeerd,01-06-2020,2020-05-14 15:37:32.065357
-https://www.woonnet.nl/huurwoning/amsterdam/1339_kinkerstraat,Kinkerstraat ,1053 DE,1300.0,60,2,Gestoffeerd,01-06-2020,2020-05-14 15:37:32.699529
-https://www.woonnet.nl/huurwoning/amsterdam/9589215_agamemnonstraat,Agamemnonstraat 43 I,1076 LR,1550.0,53,2,Per direct beschikbaar,gratis!</span>,2020-05-14 15:37:33.917002
-https://www.woonnet.nl/huurwoning/amsterdam/9572598_van-middellandtstraat,Van Middellandtstraat 21,1057 AP,1475.0,59,2,Per direct beschikbaar,gratis!</span>,2020-05-14 15:37:36.021688
-https://www.woonnet.nl/huurwoning/amsterdam/9545554_orteliusstraat,Orteliusstraat 17 - L,1057 AR,1600.0,74,2,Per direct beschikbaar,gratis!</span>,2020-05-14 15:37:37.634404
-https://www.woonnet.nl/huurwoning/amsterdam/9536399_orteliusstraat,Orteliusstraat 17 - S,1057 AR,1000.0,999,99,onbekend,onbekend,2020-05-14 15:37:39.602421
-https://www.woonnet.nl/huurwoning/amsterdam/9906119_montelbaanstraat,Montelbaanstraat 11 II,1011 EG,1350.0,50,2,Per direct beschikbaar,gratis!</span>,2020-05-18 11:33:59.127685
-https://www.woonnet.nl/huurwoning/amsterdam/5792_hoofdweg,Hoofdweg ,1056 DE,875.0,50,2,Gestoffeerd,01-06-2020,2020-05-18 11:34:01.476616
-https://www.woonnet.nl/huurwoning/amsterdam/4339_oudezijds-achterburgwal,Oudezijds Achterburgwal ,1012 DS,1350.0,76,2,Gestoffeerd,01-06-2020,2020-05-18 11:34:06.681789
-https://www.woonnet.nl/huurwoning/amsterdam/8994_vechtstraat,Vechtstraat ,1079 JP,617.0,60,3,Gestoffeerd,01-06-2020,2020-05-23 10:13:49.694736
-https://www.woonnet.nl/huurwoning/amsterdam/10000427_oudezijds-voorburgwal,Oudezijds Voorburgwal 169 ll,1012 ET,1600.0,50,2,Per direct beschikbaar,gratis!</span>,2020-05-23 10:13:49.695411
-https://www.woonnet.nl/huurwoning/amsterdam/7832_geuzenstraat,Geuzenstraat ,1056 KB,648.0,65,3,Gestoffeerd,01-06-2020,2020-05-23 10:13:51.499686
-https://www.woonnet.nl/huurwoning/amsterdam/3558_staringplein,Staringplein ,1054 VL,583.0,65,3,Gestoffeerd,01-06-2020,2020-05-23 10:13:53.253921
-https://www.woonnet.nl/huurwoning/amsterdam/9323_molenbeekstraat,Molenbeekstraat ,1078 XA,1300.0,75,2,Gestoffeerd,01-06-2020,2020-05-23 10:13:54.459305
-https://www.woonnet.nl/huurwoning/amsterdam/9963936_van-noordtstraat,Van Noordtstraat ,1013 SM,1500.0,60,2,Per direct beschikbaar,gratis!</span>,2020-05-23 10:13:57.176407
-https://www.woonnet.nl/huurwoning/amsterdam/6442_martelaarsgracht,Martelaarsgracht ,1012 TN,1500.0,63,2,Gestoffeerd,01-06-2020,2020-05-23 10:13:57.181858
-https://www.woonnet.nl/huurwoning/amsterdam/6848_tweede-van-der-helststraat,Tweede van der Helststraat ,1072 PC,1050.0,62,2,Gestoffeerd,01-06-2020,2020-05-23 10:13:57.662309
-https://www.woonnet.nl/huurwoning/amsterdam/371_stadhouderskade,Stadhouderskade ,1074 BC,660.0,160,4,Ongemeubileerd,2020-06-01,2020-05-23 10:13:58.071354
-https://www.woonnet.nl/huurwoning/amsterdam/8939_zocherstraat,Zocherstraat ,1054 LP,750.0,85,3,Gestoffeerd,01-06-2020,2020-05-30 07:51:09.799192
-https://www.woonnet.nl/huurwoning/amsterdam/10109253_rosmarijnsteeg,Rosmarijnsteeg 21,1012 RP,1575.0,54,2,Per direct beschikbaar,gratis!</span>,2020-05-30 07:51:11.610737
-https://www.woonnet.nl/huurwoning/amsterdam/9432_oudezijds-achterburgwal,Oudezijds Achterburgwal ,1012 DS,675.0,76,2,Gestoffeerd,01-06-2020,2020-05-30 07:51:13.857419
-https://www.woonnet.nl/huurwoning/amsterdam/8569_vechtstraat,Vechtstraat ,1079 JP,617.0,60,3,Gestoffeerd,01-06-2020,2020-05-30 07:51:15.865018
-https://www.woonnet.nl/huurwoning/amsterdam/9590793_zocherstraat,Zocherstraat 11 - I,1054 LP,1500.0,85,3,Per direct beschikbaar,gratis!</span>,2020-05-30 07:51:15.865710
-https://www.woonnet.nl/huurwoning/amsterdam/10293674_rosmarijnsteeg,Rosmarijnsteeg 11,1012 RP,1500.0,75,2,Per direct beschikbaar,gratis!</span>,2020-06-06 11:53:46.845893
-https://www.woonnet.nl/huurwoning/amsterdam/8245_aalsmeerplein,Aalsmeerplein ,1059 AS,1499.0,55,2,Gestoffeerd,01-07-2020,2020-06-06 11:53:48.197348
-https://www.woonnet.nl/huurwoning/amsterdam/10283973_john-blankensteinstraat,John Blankensteinstraat 139C,1095,1350.0,57,2,Per direct beschikbaar,gratis!</span>,2020-06-06 11:53:48.850399
-https://www.woonnet.nl/huurwoning/amsterdam/10282774_prinsenstraat,Prinsenstraat 27II,1015,1500.0,50,2,Per direct beschikbaar,gratis!</span>,2020-06-06 11:53:49.464653
-https://www.woonnet.nl/huurwoning/amsterdam/3868_ruysdaelstraat,Ruysdaelstraat ,1071 XC,750.0,85,2,Gestoffeerd,15-06-2020,2020-06-06 11:53:49.465391
-https://www.woonnet.nl/huurwoning/amsterdam/6765_john-blankensteinstraat,John Blankensteinstraat ,1095 MB,675.0,57,2,Gestoffeerd,01-07-2020,2020-06-06 11:53:53.152819
-https://www.woonnet.nl/huurwoning/amsterdam/10260409_prinseneiland,Prinseneiland ,1013 LL,1550.0,70,2,Gemeubileerd,beschikbaar,2020-06-06 11:53:54.378659
-https://www.woonnet.nl/huurwoning/amsterdam/4103_prinsenstraat,Prinsenstraat ,1015 DB,750.0,50,2,Gestoffeerd,15-06-2020,2020-06-06 11:53:55.525318
-https://www.woonnet.nl/huurwoning/amsterdam/2151_john-blankensteinstraat,John Blankensteinstraat ,1095 MB,1140.0,73,2,Gestoffeerd,01-07-2020,2020-06-06 11:53:57.415008
-https://www.woonnet.nl/huurwoning/amsterdam/3352_oudezijds-achterburgwal,Oudezijds Achterburgwal ,1012 DE,750.0,55,2,Gestoffeerd,01-07-2020,2020-06-06 11:53:57.416987
-https://www.woonnet.nl/huurwoning/amsterdam/8060_roomtuintjes,Roomtuintjes ,1093 SZ,750.0,126,4,Gestoffeerd,beschikbaar,2020-06-06 11:54:00.525800
-https://www.woonnet.nl/huurwoning/amsterdam/10180165_kuipersstraat,Kuipersstraat 60 HL,1074 EM,775.0,999,99,onbekend,onbekend,2020-06-06 11:54:03.287612
-https://www.woonnet.nl/huurwoning/amsterdam/10171097_lijnbaansgracht,Lijnbaansgracht 160 H,1016 VX,1250.0,999,99,onbekend,onbekend,2020-06-06 11:54:03.903337
+https://www.woonnet.nl/huurwoning/amsterdam/7883_kinderdijkstraat,Kinderdijkstraat ,1079 GS,525.0,54,4,Gestoffeerd,01-07-2020,2020-06-15 12:23:42.615699
+https://www.woonnet.nl/huurwoning/amsterdam/3402_van-woustraat,Van Woustraat ,1073 NC,725.0,60,2,Gestoffeerd,01-07-2020,2020-06-15 12:23:47.196241
+https://www.woonnet.nl/huurwoning/amsterdam/10408010_filips-van-almondestraat,Filips Van Almondestraat ,1057 ZR,1600.0,60,2,Beschikbaar per: 2020-07-01,gratis!</span>,2020-06-15 12:23:47.811151
+https://www.woonnet.nl/huurwoning/amsterdam/10403996_zoomstraat,Zoomstraat ,1078 XG,1600.0,73,2,Beschikbaar per: 2020-06-25,gratis!</span>,2020-06-15 12:23:49.645241
+https://www.woonnet.nl/huurwoning/amsterdam/10407209_nieuwe-achtergracht,Nieuwe Achtergracht ,1018 WT,1495.0,75,2,Beschikbaar per: 2020-07-01,gratis!</span>,2020-06-15 12:23:51.189562
+https://www.woonnet.nl/huurwoning/amsterdam/3529_van-ostadestraat,Van Ostadestraat ,1073 TM,1100.0,58,2,Gestoffeerd,01-07-2020,2020-06-15 12:23:52.302048
+https://www.woonnet.nl/huurwoning/amsterdam/10400380_ruysdaelstraat,Ruysdaelstraat 97 - 3,1071 XC,1500.0,85,2,Per direct beschikbaar,gratis!</span>,2020-06-15 12:23:53.757769
+https://www.woonnet.nl/huurwoning/amsterdam/381_spaarndammerstraat,Spaarndammerstraat ,1013TC &amp;bullet,1.0,75,2,Gemeubileerd,beschikbaar,2020-06-15 12:23:54.264806
+https://www.woonnet.nl/huurwoning/amsterdam/9593_vechtstraat,Vechtstraat ,1079 JP,617.0,60,3,Gestoffeerd,01-07-2020,2020-06-15 12:23:56.398113
+https://www.woonnet.nl/huurwoning/amsterdam/4269_martelaarsgracht,Martelaarsgracht ,1012 TN,700.0,63,2,Gestoffeerd,01-07-2020,2020-06-15 12:23:57.570143
+https://www.woonnet.nl/huurwoning/amsterdam/10375252_mercatorstraat,Mercatorstraat ,1056 PW,1500.0,50,2,Per direct beschikbaar,gratis!</span>,2020-06-15 12:24:00.335060
+https://www.woonnet.nl/huurwoning/amsterdam/10374263_albert-neuhuysstraat,Albert Neuhuysstraat 22 I,1058 SC,1500.0,57,2,Per direct beschikbaar,gratis!</span>,2020-06-15 12:24:00.713309
+https://www.woonnet.nl/huurwoning/amsterdam/3874_raamstraat,Raamstraat ,1016 XL,1500.0,60,2,Gestoffeerd,01-07-2020,2020-06-15 12:24:01.328424
+https://www.woonnet.nl/huurwoning/amsterdam/10363463_lange-leidsedwarsstraat,Lange Leidsedwarsstraat 95 - C,1017 NH,1575.0,65,2,Per direct beschikbaar,gratis!</span>,2020-06-15 12:24:06.262326
+https://www.woonnet.nl/huurwoning/amsterdam/6840_haarlemmermeerstraat,Haarlemmermeerstraat ,1058 KB,625.0,85,4,Gestoffeerd,01-07-2020,2020-06-15 12:24:06.874940
+https://www.woonnet.nl/huurwoning/amsterdam/10307239_kuipersstraat,Kuipersstraat 58 HL,1074 EN,725.0,999,99,onbekend,onbekend,2020-06-15 12:24:13.615697
+https://www.woonnet.nl/huurwoning/amsterdam/5935_binnenkadijk,Binnenkadijk ,1018 ZE,1025.0,77,4,Gestoffeerd,01-07-2020,2020-06-15 12:24:13.617102
+https://www.woonnet.nl/huurwoning/amsterdam/10293674_rosmarijnsteeg,Rosmarijnsteeg 11,1012 RP,1500.0,75,2,Per direct beschikbaar,gratis!</span>,2020-06-15 12:24:17.541981
+https://www.woonnet.nl/huurwoning/amsterdam/10283973_john-blankensteinstraat,John Blankensteinstraat 139C,1095,1350.0,57,2,Per direct beschikbaar,gratis!</span>,2020-06-15 12:24:19.758182
+https://www.woonnet.nl/huurwoning/amsterdam/3868_ruysdaelstraat,Ruysdaelstraat ,1071 XC,750.0,85,2,Gestoffeerd,beschikbaar,2020-06-15 12:24:19.758918
+https://www.woonnet.nl/huurwoning/amsterdam/10282774_prinsenstraat,Prinsenstraat 27II,1015,1500.0,50,2,Per direct beschikbaar,gratis!</span>,2020-06-15 12:24:20.373679
+https://www.woonnet.nl/huurwoning/amsterdam/6765_john-blankensteinstraat,John Blankensteinstraat ,1095 MB,675.0,57,2,Gestoffeerd,01-07-2020,2020-06-15 12:24:20.374414
+https://www.woonnet.nl/huurwoning/amsterdam/4103_prinsenstraat,Prinsenstraat ,1015 DB,750.0,50,2,Gestoffeerd,beschikbaar,2020-06-15 12:24:21.910579
+https://www.woonnet.nl/huurwoning/amsterdam/2151_john-blankensteinstraat,John Blankensteinstraat ,1095 MB,1140.0,73,2,Gestoffeerd,01-07-2020,2020-06-15 12:24:23.754123
+https://www.woonnet.nl/huurwoning/amsterdam/3352_oudezijds-achterburgwal,Oudezijds Achterburgwal ,1012 DE,750.0,55,2,Gestoffeerd,01-07-2020,2020-06-15 12:24:24.014467
+https://www.woonnet.nl/huurwoning/amsterdam/8060_roomtuintjes,Roomtuintjes ,1093 SZ,750.0,126,4,Gestoffeerd,beschikbaar,2020-06-15 12:24:26.886235
+https://www.woonnet.nl/huurwoning/amsterdam/10180165_kuipersstraat,Kuipersstraat 60 HL,1074 EM,775.0,999,99,onbekend,onbekend,2020-06-15 12:24:31.433297
+https://www.woonnet.nl/huurwoning/amsterdam/10133634_boterdiepstraat,Boterdiepstraat 45 I,1079 SV,1600.0,55,2,Per direct beschikbaar,gratis!</span>,2020-06-15 12:24:40.367001
+https://www.woonnet.nl/huurwoning/amsterdam/10109253_rosmarijnsteeg,Rosmarijnsteeg 21,1012 RP,1575.0,54,2,Per direct beschikbaar,gratis!</span>,2020-06-15 12:24:42.517885
+https://www.woonnet.nl/huurwoning/amsterdam/3558_staringplein,Staringplein ,1054 VL,583.0,65,3,Gestoffeerd,beschikbaar,2020-06-15 12:24:46.128239
+https://www.woonnet.nl/huurwoning/amsterdam/9323_molenbeekstraat,Molenbeekstraat ,1078 XA,1300.0,75,2,Gestoffeerd,beschikbaar,2020-06-15 12:24:48.572284
+https://www.woonnet.nl/huurwoning/amsterdam/10000427_oudezijds-voorburgwal,Oudezijds Voorburgwal 169 ll,1012 ET,1600.0,50,2,Per direct beschikbaar,gratis!</span>,2020-06-15 12:24:52.873472
+https://www.woonnet.nl/huurwoning/amsterdam/9906119_montelbaanstraat,Montelbaanstraat 11 II,1011 EG,1350.0,50,2,Per direct beschikbaar,gratis!</span>,2020-06-15 12:25:00.951601
+https://www.woonnet.nl/huurwoning/amsterdam/9850243_soendastraat,Soendastraat ,1094 BE,1500.0,58,2,Per direct beschikbaar,gratis!</span>,2020-06-15 12:25:07.772244
+https://www.woonnet.nl/huurwoning/amsterdam/3269_kastanjeplein,Kastanjeplein ,1092 CH,825.0,58,2,Gestoffeerd,beschikbaar,2020-06-15 12:25:09.525787
+https://www.woonnet.nl/huurwoning/amsterdam/9546_balboastraat,Balboastraat ,1057 VS,692.0,80,3,Gestoffeerd,beschikbaar,2020-06-15 12:25:10.475349
+https://www.woonnet.nl/huurwoning/amsterdam/3764_orteliusstraat,Orteliusstraat ,1056 PK,1450.0,60,2,Gestoffeerd,beschikbaar,2020-06-15 12:25:13.826992
+https://www.woonnet.nl/huurwoning/amsterdam/9774712_kea-boumanstraat,Kea Boumanstraat 120B,1095,1250.0,50,99,onbekend,onbekend,2020-06-15 12:25:15.658164
+https://www.woonnet.nl/huurwoning/amsterdam/3620_ruyschstraat,Ruyschstraat ,1091 CB,1000.0,50,2,Gemeubileerd,beschikbaar,2020-06-15 12:25:17.486690
+https://www.woonnet.nl/huurwoning/amsterdam/6649946_vrolikstraat,Vrolikstraat ,1092 TR,1600.0,60,2,Gemeubileerd,beschikbaar,2020-06-15 12:25:19.008060
